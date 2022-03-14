@@ -6,9 +6,8 @@ object zad4 extends App {
     if(liczba<=2)
         println("Liczba powinna byc wieksza niz 2!!!")
     else
-        if(licbza%2==0)
+        if(liczba%2==0)
             println("Nie da się")
-        else
     
     
 }
