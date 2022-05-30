@@ -1,4 +1,4 @@
-name := "lab02"
+name := "kolokwium"
 version := "0.0.1"
 
 scalaVersion := "3.1.2"
